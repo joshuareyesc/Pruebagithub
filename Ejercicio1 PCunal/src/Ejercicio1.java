@@ -5,6 +5,9 @@ public class Ejercicio1 {
 		// TODO Auto-generated method stub
 		System.out.print("Hola mundo");   //escribe hola mundo
 
+		System.out.print("hola ha funcionado?
+				 
+				 ")
 	}
 
 }
